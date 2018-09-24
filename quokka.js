@@ -4,6 +4,6 @@
   babel: true
 })
 
-import value from './myModule';
+import value from '@/myModule';
 
 console.log(value);
